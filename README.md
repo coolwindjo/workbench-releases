@@ -1,13 +1,15 @@
 # Workbench | Visible Context & AI Agents
 
-**See the context. Direct the AI. Own the outcome.**  
+**See the context. Direct the AI. Own the outcome.**
+
 **보이는 맥락과 AI, 그 이상의 효율**
 
 Bring your materials into view. Choose your AI and tools. Review the results as you work.
 
 Workbench by **JoSH** brings your files, AI conversations and results together in Obsidian. Keep the context in sight, guide the work and inspect the outcome in the same workspace.
 
-자료를 펼쳐 놓고, AI와 도구를 골라, 결과를 직접 확인하며 일하는 작업대.  
+자료를 펼쳐 놓고, AI와 도구를 골라, 결과를 직접 확인하며 일하는 작업대.
+
 Workbench는 Obsidian의 파일 트리와 문서 뷰어를 중심으로 자료·AI 대화·작업 결과를 한곳에서 이어 줍니다. **Workbench에서 자료를 열고 AI와 작업하세요.**
 
 This repository distributes installers and signed update assets. It does not contain the development checkout, personal Vaults, credentials or signing private keys.
