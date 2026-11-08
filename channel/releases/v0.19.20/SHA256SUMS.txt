@@ -1,0 +1,2 @@
+34c87274f5ca322020a7636c8b810d71b95bea7c4c609099653ff80fb2c6cd5c  Workbench-0.19.20-macOS-universal.zip
+e0288d3f08e5d8405ac4d5da8ea8f30e3510e957a83202de9729819d12792ce8  Workbench-0.19.20-Windows-x64-Setup.exe
