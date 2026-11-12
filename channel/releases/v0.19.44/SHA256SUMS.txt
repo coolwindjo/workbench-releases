@@ -1,0 +1,2 @@
+6260d86e7d326eb17f547f1510a350ca453421fd45aaf2d34bc91153a748e921  Workbench-0.19.44-macOS-universal.zip
+308e26cec5e35b2f5dcacf2215b90745c8fc29615e85172a00669a2cdda67bb5  Workbench-0.19.44-Windows-x64-Setup.exe
